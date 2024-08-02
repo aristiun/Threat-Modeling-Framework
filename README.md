@@ -56,7 +56,7 @@ This repository contains the Aristiun Threat Modeling Framework, a comprehensive
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may obtain a copy of the License at [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/).
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may obtain a copy of the License at [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/). Please review our [LICENSE.md](LICENSE.md) file prior to use.  
 
 **Contributing:**
 
