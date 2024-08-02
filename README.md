@@ -2,8 +2,6 @@
 
 This repository contains the Aristiun Threat Modeling Framework, a comprehensive and structured approach to identifying, assessing, and mitigating threats to your systems and applications. 
 
-[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
-
 **Key Features:**
 
 * **Structured Step-by-Step Approach:** Guides users through the process of threat modeling, making it accessible to those with varying levels of expertise.
@@ -55,6 +53,10 @@ This repository contains the Aristiun Threat Modeling Framework, a comprehensive
 * **Improved Compliance:**  Align with regulatory requirements and security best practices.
 
 ## License
+
+
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may obtain a copy of the License at [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/). Please review our [LICENSE.md](LICENSE.md) file prior to use.  
 
