@@ -2,7 +2,6 @@
 
 This repository contains the Aristiun Threat Modeling Framework, a comprehensive and structured approach to identifying, assessing, and mitigating threats to your systems and applications.
 
-By Nick Kirtley & Tejvir Singh at [Aristiun](https://www.aristiun.com) & [Threat-Modeling](https://threat-modeling.com).
 
 **Key Features:**
 
@@ -71,3 +70,5 @@ Contributions are welcome! Please review our [CONTRIBUTING.md](CONTRIBUTING.md) 
 For any questions or feedback, please contact info@aristiun.com. 
 
 **We hope this framework helps you build more secure systems and applications!**
+
+**Initiative by Nick Kirtley & Tejvir Singh at [Aristiun](https://www.aristiun.com) & [Threat-Modeling](https://threat-modeling.com).**
