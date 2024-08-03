@@ -25,6 +25,6 @@ If you encounter any issues or bugs, please report them on the GitHub Issue Trac
 
 ## Contact:
 
-If you have any questions or need further guidance, please contact info@aristiun.com. (Aristiiun)
+If you have any questions or need further guidance, please contact info@aristiun.com. [Aristiun](https://www.aristiun.com)
 
 We appreciate your contributions and look forward to improving the Threat Modeling Framework together!
