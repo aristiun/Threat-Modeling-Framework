@@ -1,6 +1,6 @@
 # Contributing to the Threat Modeling Framework
 
-We appreciate your interest in contributing to the Aristiun Threat Modeling Framework!  We welcome contributions from the community, including code improvements, documentation updates, bug reports, and feature suggestions. 
+We appreciate your interest in contributing to the Threat Modeling Framework!  We welcome contributions from the community, including code improvements, documentation updates, bug reports, and feature suggestions. 
 
 ## How to Contribute:
 
@@ -25,6 +25,6 @@ If you encounter any issues or bugs, please report them on the GitHub Issue Trac
 
 ## Contact:
 
-If you have any questions or need further guidance, please contact info@aristiun.com. 
+If you have any questions or need further guidance, please contact info@aristiun.com. (Aristiiun)
 
 We appreciate your contributions and look forward to improving the Threat Modeling Framework together!
